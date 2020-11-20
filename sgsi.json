@@ -1,7 +1,7 @@
 {
-  "rom_url": "https://udomain.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.10.22/xiaomi.eu_multi_HMNote7_20.10.22_v12-10.zip",
-  "rom_name": "xiaomi.eu_multi_HMNote7_20.10.22_v12-10.zip",
-  "pack_sgsi": "HMNote7_20.10.22_Q-eu_XiaoxinSGSIs_Pinkdoge.7z",
+  "rom_url": "https://hugeota.d.miui.com/20.11.18/miui_GINKGO_20.11.18_368591d347_10.0.zip7_20.10.22_v12-10.zip",
+  "rom_name": "miui_GINKGO_20.11.18_368591d347_10.0.zip",
+  "pack_sgsi": "miui_GINKGO_20.11.18_368591d347_10.0.7z",
   "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
@@ -9,6 +9,6 @@
   "make_smartisanos": false,
   "make_zui": false,
   "make_super": false,
-  "upload_transfer": true,
-  "upload_artifact": false
+  "upload_transfer": false,
+  "upload_artifact": true
 }
